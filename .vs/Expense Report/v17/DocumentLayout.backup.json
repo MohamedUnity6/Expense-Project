@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\home_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\home_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\home_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\home_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home_Page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Home_Page.xaml.cs",
+              "RelativeDocumentMoniker": "Expense Report\\Home_Page.xaml.cs",
+              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Home_Page.xaml.cs",
+              "RelativeToolTip": "Expense Report\\Home_Page.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T12:29:23.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report.xaml",
+              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Report.xaml",
+              "RelativeDocumentMoniker": "Expense Report\\Report.xaml",
+              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Report.xaml",
+              "RelativeToolTip": "Expense Report\\Report.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-16T12:28:43.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home_Page.xaml",
+              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Home_Page.xaml",
+              "RelativeDocumentMoniker": "Expense Report\\Home_Page.xaml",
+              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Home_Page.xaml*",
+              "RelativeToolTip": "Expense Report\\Home_Page.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-12T12:47:58.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogIn.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\LogIn.xaml.cs",
+              "RelativeDocumentMoniker": "Expense Report\\LogIn.xaml.cs",
+              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\LogIn.xaml.cs",
+              "RelativeToolTip": "Expense Report\\LogIn.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:46:25.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogIn.xaml",
+              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\LogIn.xaml",
+              "RelativeDocumentMoniker": "Expense Report\\LogIn.xaml",
+              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\LogIn.xaml",
+              "RelativeToolTip": "Expense Report\\LogIn.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-12T12:27:33.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Expense Report\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\MainWindow.xaml",
+              "RelativeToolTip": "Expense Report\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-12T12:24:57.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Expense Report\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Expense Report\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:24:54.743Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
