@@ -5,10 +5,45 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:Expense_Report"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
+      d:DesignHeight="450" d:DesignWidth="580"
       Title="Report">
 
     <Grid>
-        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="50">Welcome to Report Page</TextBlock>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Screenshot 2026-02-18 092707.png"></ImageBrush>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Column="1" Foreground="White" FontSize="20" HorizontalAlignment="Left"  VerticalAlignment="Center">Expense Report For:</Label>
+
+        <Grid Grid.Row="1" Grid.Column="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" MinHeight="21"/>
+                <RowDefinition Height="Auto" MinHeight="30.96"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <DockPanel Margin="0,0,0,26" Grid.RowSpan="2">
+                <Label Style="{DynamicResource headerTextStyle}" HorizontalAlignment="Left" VerticalAlignment="Top">Name :</Label>
+                <TextBlock DockPanel.Dock="Left" VerticalAlignment="Top" Margin="5,6,0,0" Foreground="White" Name="Name"  Text=""></TextBlock>
+            </DockPanel>
+            <DockPanel Grid.Row="1" VerticalAlignment="Center" Height="26">
+                <Label Style="{StaticResource headerTextStyle}" HorizontalAlignment="Left" VerticalAlignment="Top" >Departement :</Label>
+                <TextBlock DockPanel.Dock="Left" VerticalAlignment="Top" Margin="5,6,0,0" Foreground="White" Name="Departement" Text=""></TextBlock>
+            </DockPanel>
+            <DataGrid BorderBrush="Transparent" Background="Transparent" Name="Data_Grid" AutoGenerateColumns="False" RowHeaderWidth="0" Grid.Row="2" HorizontalAlignment="Left" Width="133" ItemsSource="{Binding employees}">
+            </DataGrid>
+        </Grid>
     </Grid>
 </Page>

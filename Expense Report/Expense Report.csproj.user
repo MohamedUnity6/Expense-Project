@@ -8,7 +8,13 @@
     <Compile Update="LogIn.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="page.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Report.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Sign-Up.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

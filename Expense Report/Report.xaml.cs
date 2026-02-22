@@ -20,9 +20,14 @@ namespace Expense_Report
     /// </summary>
     public partial class Report : Page
     {
-        public Report()
+        
+        public Report(string name)
         {
             InitializeComponent();
+            Name.Text = name;
         }
+
+
+
     }
 }

@@ -25,18 +25,21 @@ namespace Expense_Report
             InitializeComponent();
         }
 
-        private void LogInbtn_Click(object sender, RoutedEventArgs e)
-        {
-            var userName = UserName.Text;
-            var password = Password.Password;
+       
 
-            if(userName == "mohamed" && password == "MF_RTX")
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            User user = Register._user;
+            if (Username.Text == user.Username && Password.Password == user.Password)
             {
                 NavigationService.Navigate(new Home_Page());
-                return;
             }
-
-            MessageBox.Show("Username or password is worng", "Error", MessageBoxButton.OK);
+            else
+            {
+                MessageBox.Show("ERROR");
+            }
         }
+
+
     }
 }

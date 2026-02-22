@@ -20,14 +20,27 @@ namespace Expense_Report
     /// </summary>
     public partial class Home_Page : Page
     {
+        public List<Employee> employees { get; set; } = new List<Employee>();
         public Home_Page()
         {
             InitializeComponent();
+            saveEmployees();
+            this.DataContext = this;
         }
 
         private void Select_button_Click(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new Report());
+            string name = List_Box.SelectedItem.ToString();
+            NavigationService.Navigate(new Report(name));
         }
+
+        private void saveEmployees()
+        {
+            employees.Add(new Employee() { Name = "Mohamed", Amount = 1000, Departement = "CS", ExpenseType = "UnKnown" });
+            employees.Add(new Employee() { Name = "Ali", Amount = 1300, Departement = "IT", ExpenseType = "UnKnown" });
+            employees.Add(new Employee() { Name = "Sabri", Amount = 1500, Departement = "ES", ExpenseType = "UnKnown" });
+            employees.Add(new Employee() { Name = "Hanafy", Amount = 900, Departement = "IS", ExpenseType = "UnKnown" });
+        }
+
     }
 }

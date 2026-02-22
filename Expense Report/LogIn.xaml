@@ -8,25 +8,28 @@
       d:DesignHeight="450" d:DesignWidth="800"
       Title="LogIn">
     <Grid>
-        <Border Background="Beige" Width="350" Height="300" CornerRadius="20" BorderThickness="5" >
-            <StackPanel>
-                <TextBlock Text="Login" FontFamily="Calibri" HorizontalAlignment="Center" FontSize="35"></TextBlock>
-                <StackPanel Orientation="Horizontal">
-
-                    <Label HorizontalAlignment="Left" Margin="40,30,0,0" Content="UserName" FontSize="15"></Label>
-                    <TextBox Name="UserName" Width="150" Height="20" Margin="0,33,0,0"></TextBox>
-                    
+        <Border HorizontalAlignment="Center" VerticalAlignment="Center" Width="500" Height="300" Background="White" CornerRadius="10">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="10" Opacity="0.4" ShadowDepth="10"/>
+            </Border.Effect>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="Welcome Back" FontSize="20" FontWeight="Bold" FontFamily="Arial"></TextBlock>
+                <StackPanel Grid.Row="1">
+                    <Label FontWeight="Bold" Margin="20,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">Username</Label>
+                    <TextBox x:Name="Username" Background="White" Foreground="Black" Opacity="0.1" HorizontalAlignment="Left" Margin="24,0,0,0" Width="450" Height="20"/>
                 </StackPanel>
-
-                <StackPanel Orientation="Horizontal">
-
-
-                    <Label HorizontalAlignment="Left" Margin="40,30,0,0" Content="Password" FontSize="15"></Label>
-                    <PasswordBox Name="Password" Width="150" Height="20" Margin="3,33,0,0"></PasswordBox>
+                <StackPanel Grid.Row="2">
+                    <Label FontWeight="Bold" Margin="20,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">Password</Label>
+                    <PasswordBox x:Name="Password" Background="White" Foreground="Black" Opacity="0.1" HorizontalAlignment="Left" Margin="24,0,0,0" Width="450" Height="20"/>
                 </StackPanel>
-
-                <Button Name="LogInbtn" Content="LogIn" Width="100" Height="35" Margin="20,30,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" Click="LogInbtn_Click" Background="Black" Foreground="White"></Button>
-            </StackPanel>
+                <Button Grid.Row="3" HorizontalAlignment="Center" Margin="0,0,0,30" VerticalAlignment="Center" Width="447" Height="20" HorizontalContentAlignment="Center" Background="Blue" Foreground="White" Click="Button_Click">Log in</Button>
+            </Grid>
         </Border>
     </Grid>
 </Page>

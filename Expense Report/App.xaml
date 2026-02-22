@@ -4,6 +4,16 @@
              xmlns:local="clr-namespace:Expense_Report"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Style x:Key="headerTextStyle" TargetType="{x:Type Label}">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+
+        <Style x:Key="columnHeaderStyle" TargetType="{x:Type DataGridColumnHeader}">
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="Background" Value="Blue"/>
+            <Setter Property="Foreground" Value="White"/>
+        </Style>
     </Application.Resources>
 </Application>

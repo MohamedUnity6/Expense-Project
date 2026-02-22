@@ -24,3 +24,9 @@ C:\Users\mohamed fathy\source\repos\Expense Report\Expense Report\obj\Debug\net9
 C:\Users\mohamed fathy\source\repos\Expense Report\Expense Report\obj\Debug\net9.0-windows\Home_Page.baml
 C:\Users\mohamed fathy\source\repos\Expense Report\Expense Report\obj\Debug\net9.0-windows\Report.g.cs
 C:\Users\mohamed fathy\source\repos\Expense Report\Expense Report\obj\Debug\net9.0-windows\Report.baml
+C:\Users\mohamed fathy\source\repos\Expense Report\Expense Report\obj\Debug\net9.0-windows\Expense Report.sourcelink.json
+C:\Users\mohamed fathy\source\repos\Expense Report\Expense Report\obj\Debug\net9.0-windows\App.baml
+C:\Users\mohamed fathy\source\repos\Expense Report\Expense Report\obj\Debug\net9.0-windows\Page.g.cs
+C:\Users\mohamed fathy\source\repos\Expense Report\Expense Report\obj\Debug\net9.0-windows\Page.baml
+C:\Users\mohamed fathy\source\repos\Expense Report\Expense Report\obj\Debug\net9.0-windows\Sign-Up.g.cs
+C:\Users\mohamed fathy\source\repos\Expense Report\Expense Report\obj\Debug\net9.0-windows\Sign-Up.baml

@@ -23,10 +23,7 @@
             <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Margin="270,20,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="50">Home Page</TextBlock>
         </WrapPanel>
         <DockPanel Grid.Column="1" Grid.Row="1" LastChildFill="True">
-            <ListBox Margin="0,0,10,20">
-                <ListBoxItem>Mohamed Mostafa</ListBoxItem>
-                <ListBoxItem>Ali Mostafa</ListBoxItem>
-                <ListBoxItem>Fathy Mostafa</ListBoxItem>
+            <ListBox x:Name="List_Box" Margin="0,0,10,20" ItemsSource="{Binding employees}">
             </ListBox>
         </DockPanel>
         <DockPanel Grid.Row="2" Grid.Column="1" LastChildFill="True">
