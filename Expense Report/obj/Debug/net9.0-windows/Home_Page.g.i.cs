@@ -69,7 +69,7 @@ namespace Expense_Report {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Expense Report;component/home_page.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Expense Report;V1.0.0.0;component/home_page.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Home_Page.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -1,0 +1,8 @@
+Install-Package Microsoft.EntityFrameworkCore -Version 8.0.0
+Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 8.0.0
+Install-Package Microsoft.EntityFrameworkCore.Tools -Version 8.0.0
+Install-Package Microsoft.EntityFrameworkCore.Design -Version 8.0.0
+Install-Package Microsoft.EntityFrameworkCore.Relational -Version 8.0.0
+
+
+Scaffold-DbContext "Server=(localdb)\MSSQLLocalDB;Database=Expense;Trusted_Connection=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -DataAnnotations -Force
