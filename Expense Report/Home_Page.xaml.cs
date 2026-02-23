@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Expense_Report.Models;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,11 +22,12 @@ namespace Expense_Report
     /// </summary>
     public partial class Home_Page : Page
     {
-        public List<Employee> employees { get; set; } = new List<Employee>();
+
+        public List<string> Names { get; set; } = new List<string>();
         public Home_Page()
         {
             InitializeComponent();
-            saveEmployees();
+            GetName();
             this.DataContext = this;
         }
 
@@ -34,12 +37,11 @@ namespace Expense_Report
             NavigationService.Navigate(new Report(name));
         }
 
-        private void saveEmployees()
+        private void GetName()
         {
-            employees.Add(new Employee() { Name = "Mohamed", Amount = 1000, Departement = "CS", ExpenseType = "UnKnown" });
-            employees.Add(new Employee() { Name = "Ali", Amount = 1300, Departement = "IT", ExpenseType = "UnKnown" });
-            employees.Add(new Employee() { Name = "Sabri", Amount = 1500, Departement = "ES", ExpenseType = "UnKnown" });
-            employees.Add(new Employee() { Name = "Hanafy", Amount = 900, Departement = "IS", ExpenseType = "UnKnown" });
+            ExpenseContext db = new ExpenseContext();
+
+            Names = db.ExpenseReports.Select(x => x.Name).Distinct().ToList();
         }
 
     }

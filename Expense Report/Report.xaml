@@ -32,7 +32,6 @@
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
-                <ColumnDefinition/>
             </Grid.ColumnDefinitions>
             <DockPanel Margin="0,0,0,26" Grid.RowSpan="2">
                 <Label Style="{DynamicResource headerTextStyle}" HorizontalAlignment="Left" VerticalAlignment="Top">Name :</Label>
@@ -42,7 +41,7 @@
                 <Label Style="{StaticResource headerTextStyle}" HorizontalAlignment="Left" VerticalAlignment="Top" >Departement :</Label>
                 <TextBlock DockPanel.Dock="Left" VerticalAlignment="Top" Margin="5,6,0,0" Foreground="White" Name="Departement" Text=""></TextBlock>
             </DockPanel>
-            <DataGrid BorderBrush="Transparent" Background="Transparent" Name="Data_Grid" AutoGenerateColumns="False" RowHeaderWidth="0" Grid.Row="2" HorizontalAlignment="Left" Width="133" ItemsSource="{Binding employees}">
+            <DataGrid x:Name="ReportList" BorderBrush="Transparent" IsReadOnly="True" Background="White" RowHeaderWidth="0" Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="Auto" Height="Auto">
             </DataGrid>
         </Grid>
     </Grid>

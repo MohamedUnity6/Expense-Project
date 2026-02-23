@@ -29,15 +29,7 @@ namespace Expense_Report
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            User user = Register._user;
-            if (Username.Text == user.Username && Password.Password == user.Password)
-            {
-                NavigationService.Navigate(new Home_Page());
-            }
-            else
-            {
-                MessageBox.Show("ERROR");
-            }
+            NavigationService.Navigate(new Home_Page());
         }
 
 

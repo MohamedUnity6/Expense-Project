@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Expense_Report.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,7 +25,19 @@ namespace Expense_Report
         public Report(string name)
         {
             InitializeComponent();
+            ShowExpenseReports(name);
+        }
+
+        private void ShowExpenseReports(string name)
+        {
+
             Name.Text = name;
+
+            ExpenseContext db = new ExpenseContext();
+
+            ReportList.ItemsSource = db.ExpenseReports.Where(e => e.Name == name).ToList();
+
+            Departement.Text = db.ExpenseReports.Where(e => e.Name == name).Select(e => e.Department).FirstOrDefault();
         }
 
 

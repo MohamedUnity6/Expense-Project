@@ -22,11 +22,11 @@
                 <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="Welcome Back" FontSize="20" FontWeight="Bold" FontFamily="Arial"></TextBlock>
                 <StackPanel Grid.Row="1">
                     <Label FontWeight="Bold" Margin="20,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">Username</Label>
-                    <TextBox x:Name="Username" Background="White" Foreground="Black" Opacity="0.1" HorizontalAlignment="Left" Margin="24,0,0,0" Width="450" Height="20"/>
+                    <TextBox x:Name="Username" Background="White" Foreground="Black" HorizontalAlignment="Left" Margin="24,0,0,0" Width="450" Height="20"/>
                 </StackPanel>
                 <StackPanel Grid.Row="2">
                     <Label FontWeight="Bold" Margin="20,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">Password</Label>
-                    <PasswordBox x:Name="Password" Background="White" Foreground="Black" Opacity="0.1" HorizontalAlignment="Left" Margin="24,0,0,0" Width="450" Height="20"/>
+                    <PasswordBox x:Name="Password" Background="White" Foreground="Black"  HorizontalAlignment="Left" Margin="24,0,0,0" Width="450" Height="20"/>
                 </StackPanel>
                 <Button Grid.Row="3" HorizontalAlignment="Center" Margin="0,0,0,30" VerticalAlignment="Center" Width="447" Height="20" HorizontalContentAlignment="Center" Background="Blue" Foreground="White" Click="Button_Click">Log in</Button>
             </Grid>
