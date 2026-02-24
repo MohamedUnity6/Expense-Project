@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Expense Report.csproj": {}
+    "C:\\Users\\HP-MCC\\Desktop\\Expense\\Expense-Project\\Expense Report\\Expense Report.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Expense Report.csproj": {
+    "C:\\Users\\HP-MCC\\Desktop\\Expense\\Expense-Project\\Expense Report\\Expense Report.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Expense Report.csproj",
+        "projectUniqueName": "C:\\Users\\HP-MCC\\Desktop\\Expense\\Expense-Project\\Expense Report\\Expense Report.csproj",
         "projectName": "Expense Report",
-        "projectPath": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Expense Report.csproj",
-        "packagesPath": "C:\\Users\\mohamed fathy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\obj\\",
+        "projectPath": "C:\\Users\\HP-MCC\\Desktop\\Expense\\Expense-Project\\Expense Report\\Expense Report.csproj",
+        "packagesPath": "C:\\Users\\HP-MCC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP-MCC\\Desktop\\Expense\\Expense-Project\\Expense Report\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mohamed fathy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP-MCC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0-windows7.0": {
@@ -87,6 +87,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -95,7 +113,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -5,6 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Expense_Report"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Source="Sign-Up.xaml">
+        Title="MainWindow" Height="450" Width="800" Source="CRUD-Page.xaml">
     
 </NavigationWindow>
