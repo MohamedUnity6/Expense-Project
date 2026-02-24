@@ -32,22 +32,23 @@
             </StackPanel>
 
             <StackPanel Grid.Column="1">
-                <TextBox Width="250" Margin="0,30,0,0" Height="30"></TextBox>
-                <TextBox Width="250" Margin="0,30,0,0" Height="30"></TextBox>
-                <TextBox Width="250" Margin="0,40,0,0" Height="30"></TextBox>
-                <TextBox Width="250" Margin="0,36,0,0" Height="30"></TextBox>
-                <TextBox Width="250" Margin="0,33,0,0" Height="30"></TextBox>
+                <TextBox x:Name="Id" Width="250" Margin="0,35,0,0" Height="30" VerticalContentAlignment="Center"></TextBox>
+                <TextBox x:Name="Name" Width="250" Margin="0,34,0,0" Height="30" VerticalContentAlignment="Center"></TextBox>
+                <TextBox x:Name="ExpenseType" Width="250" Margin="0,34,0,0" Height="30" VerticalContentAlignment="Center"></TextBox>
+                <TextBox x:Name="Amount" Width="250" Margin="0,34,0,0" Height="30" VerticalContentAlignment="Center"></TextBox>
+                <TextBox x:Name="Departement" Width="250" Margin="0,33,0,0" Height="30" VerticalContentAlignment="Center"></TextBox>
             </StackPanel>
 
-            <DataGrid Grid.Column="2" Margin="10,25,10,20" AutoGenerateColumns="True" IsReadOnly="True"></DataGrid>
+            <DataGrid Name="Grid_Data"  Grid.Column="2" Margin="10,25,10,20" AutoGenerateColumns="True" IsReadOnly="True"></DataGrid>
             
         </Grid>
 
         <WrapPanel Grid.Row="1" Margin="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center">
-            <Button Margin="0,0,10,0" Background="Transparent" Width="120" Height="30">Refresh</Button>
-            <Button Margin="0,0,10,0" Background="Transparent" Width="120" Height="30">Add</Button>
-            <Button Margin="0,0,10,0" Background="Transparent" Width="120" Height="30">Update</Button>
-            <Button Background="Transparent" Width="120" Height="30">Delete</Button>
+            <Button Margin="0,0,10,0" Background="Transparent" Width="120" Height="30" Click="Refresh">Refresh</Button>
+            <Button Margin="0,0,10,0" Background="Transparent" Width="120" Height="30" Click="addNewReport">Add</Button>
+            <Button Margin="0,0,10,0" Background="Transparent" Width="120" Height="30" Click="updateReport">Update</Button>
+            <Button  Margin="0,0,10,0" Background="Transparent" Width="120" Height="30"  Click="deleteReport">Delete</Button>
+            <Button Background="Transparent" Width="120" Height="30"  Click="searchById">Search</Button>
         </WrapPanel>
     </Grid>
 </Page>

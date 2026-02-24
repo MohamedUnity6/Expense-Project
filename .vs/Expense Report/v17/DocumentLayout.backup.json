@@ -3,36 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\home_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\home_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\crud-page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\crud-page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\crud-page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\crud-page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\models\\expensecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\models\\expensecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\home_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\home_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\sign-up.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\sign-up.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\home_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\home_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|solutionrelative:expense report\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF8729A1-6BE4-4511-B0E2-D0D5FC5338A0}|Expense Report\\Expense Report.csproj|c:\\users\\mohamed fathy\\source\\repos\\expense report\\expense report\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,41 +98,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Home_Page.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Home_Page.xaml.cs",
-              "RelativeDocumentMoniker": "Expense Report\\Home_Page.xaml.cs",
-              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Home_Page.xaml.cs",
-              "RelativeToolTip": "Expense Report\\Home_Page.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ExpenseContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Models\\ExpenseContext.cs",
+              "RelativeDocumentMoniker": "Expense Report\\Models\\ExpenseContext.cs",
+              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Models\\ExpenseContext.cs",
+              "RelativeToolTip": "Expense Report\\Models\\ExpenseContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T12:29:23.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Register.cs",
-              "RelativeDocumentMoniker": "Expense Report\\Register.cs",
-              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Register.cs",
-              "RelativeToolTip": "Expense Report\\Register.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T13:17:32.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T07:11:31.48Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Report.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Report.xaml.cs",
-              "RelativeDocumentMoniker": "Expense Report\\Report.xaml.cs",
-              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Report.xaml.cs",
-              "RelativeToolTip": "Expense Report\\Report.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAswB8AAAAJAAAAAAAAAA==",
+              "Title": "CRUD-Page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\CRUD-Page.xaml.cs",
+              "RelativeDocumentMoniker": "Expense Report\\CRUD-Page.xaml.cs",
+              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\CRUD-Page.xaml.cs",
+              "RelativeToolTip": "Expense Report\\CRUD-Page.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T08:17:13.299Z",
+              "WhenOpened": "2026-02-24T07:10:33.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CRUD-Page.xaml",
+              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\CRUD-Page.xaml",
+              "RelativeDocumentMoniker": "Expense Report\\CRUD-Page.xaml",
+              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\CRUD-Page.xaml*",
+              "RelativeToolTip": "Expense Report\\CRUD-Page.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-24T07:10:13.036Z",
               "EditorCaption": ""
             },
             {
@@ -133,60 +143,102 @@
               "RelativeToolTip": "Expense Report\\LogIn.xaml.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAqwCAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T12:46:25.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T12:46:25.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Sign-Up.xaml",
               "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Sign-Up.xaml",
               "RelativeDocumentMoniker": "Expense Report\\Sign-Up.xaml",
               "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Sign-Up.xaml",
               "RelativeToolTip": "Expense Report\\Sign-Up.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-22T11:44:09.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-22T11:44:09.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Report.xaml",
               "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Report.xaml",
               "RelativeDocumentMoniker": "Expense Report\\Report.xaml",
               "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Report.xaml",
               "RelativeToolTip": "Expense Report\\Report.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-16T12:28:43.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T12:28:43.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Expense Report\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\MainWindow.xaml",
+              "RelativeToolTip": "Expense Report\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-12T12:24:57.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Home_Page.xaml",
               "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Home_Page.xaml",
               "RelativeDocumentMoniker": "Expense Report\\Home_Page.xaml",
               "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Home_Page.xaml",
               "RelativeToolTip": "Expense Report\\Home_Page.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-12T12:47:58.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T12:47:58.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "Home_Page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Home_Page.xaml.cs",
+              "RelativeDocumentMoniker": "Expense Report\\Home_Page.xaml.cs",
+              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Home_Page.xaml.cs",
+              "RelativeToolTip": "Expense Report\\Home_Page.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T12:29:23.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "LogIn.xaml",
               "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\LogIn.xaml",
               "RelativeDocumentMoniker": "Expense Report\\LogIn.xaml",
               "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\LogIn.xaml",
               "RelativeToolTip": "Expense Report\\LogIn.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-12T12:27:33.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T12:27:33.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
+              "Title": "Report.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Report.xaml.cs",
+              "RelativeDocumentMoniker": "Expense Report\\Report.xaml.cs",
+              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Report.xaml.cs",
+              "RelativeToolTip": "Expense Report\\Report.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:17:13.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Register.cs",
+              "RelativeDocumentMoniker": "Expense Report\\Register.cs",
+              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Register.cs",
+              "RelativeToolTip": "Expense Report\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:17:32.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\User.cs",
               "RelativeDocumentMoniker": "Expense Report\\User.cs",
@@ -194,12 +246,11 @@
               "RelativeToolTip": "Expense Report\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T13:16:37.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T13:16:37.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Sign-Up.xaml.cs",
               "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Sign-Up.xaml.cs",
               "RelativeDocumentMoniker": "Expense Report\\Sign-Up.xaml.cs",
@@ -207,12 +258,11 @@
               "RelativeToolTip": "Expense Report\\Sign-Up.xaml.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAewCMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T13:03:44.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T13:03:44.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Expense Report\\MainWindow.xaml.cs",
@@ -220,24 +270,11 @@
               "RelativeToolTip": "Expense Report\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAMwBIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T12:24:54.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T12:24:54.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Expense Report\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\MainWindow.xaml",
-              "RelativeToolTip": "Expense Report\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-12T12:24:57.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Employee.cs",
               "RelativeDocumentMoniker": "Expense Report\\Employee.cs",
@@ -245,12 +282,11 @@
               "RelativeToolTip": "Expense Report\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T11:02:28.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-22T11:02:28.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "page.xaml.cs",
               "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\page.xaml.cs",
               "RelativeDocumentMoniker": "Expense Report\\page.xaml.cs",
@@ -258,12 +294,11 @@
               "RelativeToolTip": "Expense Report\\page.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T09:53:45.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T09:53:45.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\Person.cs",
               "RelativeDocumentMoniker": "Expense Report\\Person.cs",
@@ -271,12 +306,11 @@
               "RelativeToolTip": "Expense Report\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T09:41:29.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T09:41:29.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\App.xaml",
               "RelativeDocumentMoniker": "Expense Report\\App.xaml",
@@ -288,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\mohamed fathy\\source\\repos\\Expense Report\\Expense Report\\App.xaml.cs",
               "RelativeDocumentMoniker": "Expense Report\\App.xaml.cs",
@@ -296,8 +330,11 @@
               "RelativeToolTip": "Expense Report\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T08:24:49.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T08:24:49.522Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }
